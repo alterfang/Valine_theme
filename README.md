@@ -18,3 +18,6 @@
 ***
 #### 样式三，作者：[山卜方](https://shanbu.fun)
 ![样式3.jpg](https://i.loli.net/2019/11/19/a4jmVWT2rYH9bE7.jpg)
+***
+#### 样式四，作者：[山卜方](https://shanbu.fun)
+![样式4.jpg](https://i.loli.net/2019/11/19/BV5YA8vN9pdrZI1.jpg)
