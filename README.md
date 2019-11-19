@@ -2,7 +2,7 @@
 ***
 ### 简介：
 
-- 现在的 Valine 使用者众多但是主题样式却少的可怜，所以我自己做了几个和收集了几主题，本仓不断更新，如果有小伙伴发现了好看的主题样式欢迎来上我的[主页](https://shanbu.fun/post/zheng-li-xia-valine-zhu-ti-yang-shi/)联系我！
+- 现在的 Valine 使用者众多但是主题样式却少的可怜，所以我自己做了几个和收集了几主题，本仓不断更新，如果有小伙伴发现了好看的主题样式欢迎来上我的[主页](https://tech.shanbu.fun/post/zheng-li-xia-valine-zhu-ti-yang-shi/)联系我！
 ### 注意事项：
 
 - 在使用的时候请使用Valine的纯净版（就是不是内置Css样式的版本）否则会引起样式错乱等问题！
